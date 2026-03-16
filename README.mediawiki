@@ -6,8 +6,7 @@
 
 <br />
 '''Trading Day Simulation:'''
-* To perform the simulation, the system first creates a number of companies with random values for «number of shares» and «share price». Then, it creates a number of investors with a random «budget».
-
+* To perform the simulation, the system first creates a number of companies with random values for «number of shares» and «share price». Then, it creates a number of investors with a random «budget».<br />
 * The simulator follows these rules:
 :* If a company sells 10 shares, its share price doubles.
 :* If any 10 shares are sold (from any company) and a company hasn't sold any, its price is halved.
