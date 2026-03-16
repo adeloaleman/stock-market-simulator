@@ -72,6 +72,8 @@ public class InvestorsCompaniesCreator {
         if (min >= max) {
             throw new IllegalArgumentException("max must be greater than min");
         }
+        // Returns a ramdom number between 0-9 
+        // int nxt = ran.nextInt(10); 
         Random r = new Random();
         return r.nextInt((max - min) + 1) + min;
     }

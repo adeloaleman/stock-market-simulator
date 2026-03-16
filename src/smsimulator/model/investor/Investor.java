@@ -2,7 +2,7 @@ package smsimulator.model.investor;
 
 
 public class Investor {
-    public static int    idAutoIncrement;
+    public  static int    idAutoIncrement;
     private final  int    id;
     private        String name;
     private        double budget;

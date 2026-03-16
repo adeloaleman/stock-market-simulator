@@ -25,9 +25,6 @@ import smsimulator.view.GUITablesSummary;
 
 public class SMSimulator {
     
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         InvestorsCompaniesCreator setup = new InvestorsCompaniesCreator();
