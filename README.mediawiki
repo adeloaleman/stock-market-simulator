@@ -1,16 +1,15 @@
 == Java Desktop App - Stock Market Simulator ==
 <span style="background:#E6E6FA ">'''In this project, we have created a GUI Java (Swing) Application that simulates a trading day of a simplified model of a stock market:'''</span>
-* You can try the application by downloading the Java Jar file from this link: http://perso.sinfronteras.ws/images/0/00/SMSimulator.jar
-* Visit our ''Wiki'' at http://perso.sinfronteras.ws/index.php/Java_Desktop_App_-_Stock_Market_Simulator to know more about this project.
+* You can try the app by downloading the Java Jar file https://wiki.sinfrontera.net/images/7/79/SMSimulator.zip
+* Visit our project page at https://wiki.sinfrontera.net/view/Java_Desktop_App_-_Stock_Market_Simulator
 
 
 <br />
-<br />
-<span style="background:#E6E6FA ">'''Trading Day Simulation:'''</span>
-* To be able to perform the simulation, the system first creates a number of companies with random values of «number of shares» and «share price». Then, we create a number of Investors with a random «budget».
+'''Trading Day Simulation:'''
+* To perform the simulation, the system first creates a number of companies with random values for «number of shares» and «share price». Then, it creates a number of investors with a random «budget».
 
-* '''The simulator follows these rules:'''
-:* If a company sells 10 shares, the share price doubles up.
-:* If any 10 shares are sold (from any company), and a company hasn't sold any, the price reduces in half.
-:* Investors can do as many transactions as they like, but must buy only one share per transaction. Investors must try to buy shares in as many possible companies to guarantee the safety of their investment.
+* The simulator follows these rules:
+:* If a company sells 10 shares, its share price doubles.
+:* If any 10 shares are sold (from any company) and a company hasn't sold any, its price is halved.
+:* Investors can perform as many transactions as they like, but must buy only one share per transaction. Investors should try to buy shares in as many companies as possible to maximize the safety of their investment.
 :* The simulator stops when all shares have been sold, or all investors have spent all their money.
