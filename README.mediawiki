@@ -1,5 +1,5 @@
 == Java Desktop App - Stock Market Simulator ==
-<span style="background:#E6E6FA ">'''In this project, we have created a GUI Java (Swing) Application that simulates a trading day of a simplified model of a stock market:'''</span>
+<span style="background:#E6E6FA ">'''In this project, we have created a Java Swing GUI application that simulates a trading day of a simplified model of a stock market:'''</span>
 * You can try the app by downloading the Java Jar file https://wiki.sinfrontera.net/images/7/79/SMSimulator.zip
 * Visit our project page at https://wiki.sinfrontera.net/view/Java_Desktop_App_-_Stock_Market_Simulator
 
